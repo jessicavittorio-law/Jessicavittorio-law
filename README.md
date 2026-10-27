@@ -18,7 +18,7 @@ This is where I build in public. Everything here is educational, built from publ
  
 | Project | What it is | Status |
 |---|---|---|
-| AI Governance Toolkit | Risk assessment questionnaire, model inventory template, and a policy framework mapped to EU AI Act risk tiers | Coming soon |
+| AI Governance Toolkit | Risk assessment questionnaire, model inventory template, and a policy framework mapped to EU AI Act risk tiers | [Find it here](https://github.com/your-username/ai-governance-toolkit) |
 | Privacy Compliance Toolkit | Data mapping template, GDPR vs. CCPA/CPRA comparison, DPA clause checklist, cross-border transfer guide | Coming soon |
 | Regulatory Tracker | Python tooling to monitor public sources for AI and privacy legislation and summarize changes | Coming soon |
 | Contract Clause Analysis | Jupyter notebook comparing clauses across public contracts (e.g., SEC EDGAR filings) | Coming soon |
